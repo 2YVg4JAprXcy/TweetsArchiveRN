@@ -1,0 +1,95 @@
+✅ Scrape done
+❓ Partial scrape
+🟠 High volume of tweets
+❌ No accounts
+
+   ✅ M. Franck Allisio
+   ✅ Mme Bénédicte Auzanot 
+   ✅ M. Philippe Ballard
+   ✅ M. Christophe Barthès
+   ✅ M. Romain Baubry
+   ✅ M. José Beaurain
+   ✅ M. Christophe Bentz
+   ✅ M. Pierrick Berteloot
+   ✅ M. Bruno Bilde
+   ✅ M. Emmanuel Blairy
+   ✅ Mme Sophie Blanc
+   ✅ M. Frédéric Boccaletti
+   ❓ Mme Pascale Bordes
+   ✅ M. Jorys Bovet
+   ❓🟠 M. Jérôme Buisson
+   ✅ M. Frédéric Cabrolier
+   ✅ M. Victor Catteau
+   🟠 M. Sébastien Chenu
+   ✅ M. Roger Chudeau
+   ❓🟠 Mme Caroline Colombier
+   ✅ Mme Annick Cousin
+   ✅ Mme Nathalie Da Conceicao Carvalho
+   ✅ M. Jocelyn Dessigny
+   ✅ Mme Edwige Diaz
+   ✅ Mme Sandrine Dogor-Such
+   ✅🟠 M. Nicolas Dragon
+   ✅ Mme Christine Engrand
+   ✅ M. Frédéric Falcon
+   ✅ M. Grégoire de Fournas
+   ✅ M. Thibaut François
+   ✅ M. Thierry Frappé
+   ✅ Mme Anne-Sophie Frigout
+   ✅ Mme Stéphanie Galzy
+   ✅ M. Frank Giletti
+   ✅ M. Yoann Gillet
+   ✅ M. Christian Girard
+   ✅ M. José Gonzalez
+   ✅ Mme Florence Goulet
+   ✅ Mme Géraldine Grangier
+   ✅ M. Daniel Grenon
+   ✅ M. Michel Guiniot
+   ✅ M. Jordan Guitton
+   ✅ Mme Marine Hamelet
+   ✅ M. Joris Hébrard
+   ✅ M. Timothée Houssin
+   ✅ M. Laurent Jacobelli
+   ✅ M. Alexis Jolly
+   ✅ Mme Hélène Laporte
+   ✅ Mme Laure Lavalette
+   🟠 Mme Marine Le Pen
+   ✅ Mme Julie Lechanteux
+   ✅ Mme Gisèle Lelouis
+   ✅ M. Hervé de Lépinau
+   ✅ Mme Katiana Levavasseur
+   ✅ Mme Christine Loir
+   ✅ M. Aurélien Lopez-Liguori
+   ✅ Mme Marie-France Lorho
+   ✅ M. Philippe Lottiaux
+   ✅ M. Alexandre Loubet
+   ✅ M. Matthieu Marchio
+   ✅ Mme Michèle Martinez
+   ✅ Mme Alexandra Masson
+   ✅ M. Bryan Masson
+   ✅ M. Kévin Mauvieux
+   ✅ M. Nicolas Meizonnet
+   ✅ Mme Joëlle Mélin
+   ✅ Mme Yaël Menache
+   ✅ M. Thomas Ménagé
+   ✅ M. Pierre Meurin
+   ✅ M. Serge Muller
+   🟠 M. Julien Odoul
+   ✅ Mme Mathilde Paris
+   ✅ Mme Caroline Parmentier
+   ✅ M. Kévin Pfeffer
+   ✅ Mme Lisette Pollet
+   ✅ M. Stéphane Rambaud
+   ✅ Mme Angélique Ranc
+   ✅ M. Julien Rancoule
+   ✅ Mme Laurence Robert-Dehault
+   ✅ Mme Béatrice Roullaud
+   ✅ Mme Anaïs Sabatini
+   ✅ M. Alexandre Sabatou
+   ✅ M. Emeric Salmon
+   ✅ M. Philippe Schreck
+   ❌ M. Emmanuel Taché de la Pagerie
+   🟠 M. Jean-Philippe Tanguy
+   ✅ M. Michaël Taverne
+   ✅ M. Lionel Tivoli
+   ✅ M. Antoine Villedieu
+
